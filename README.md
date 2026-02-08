@@ -16,10 +16,7 @@
 
 | Avatar                                                                            | Name                        | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:----------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/ccd744edbb55a43da7f2d094a9c41949205ab8e9.jpg) | 花烬繁星                        | [76561198992232659](https://steamcommunity.com/profiles/76561198992232659/) | ❌           | 2025-02-18 09:16:19 |          | 2026-02-08 10:32:19 |
-| ![](https://avatars.steamstatic.com/22e6eb5bf23918558a03231d992df11b0ea135b7.jpg) | Smoothvlatte                | [76561198956304930](https://steamcommunity.com/profiles/76561198956304930/) | ❌           | 2024-06-28 11:34:30 |          | 2026-02-08 10:32:19 |
-| ![](https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf.jpg) | [已注销]                       | [76561199237455253](https://steamcommunity.com/profiles/76561199237455253/) | ❌           | 2024-08-29 03:05:27 |          | 2026-02-08 10:32:19 |
-| ![](https://avatars.steamstatic.com/a4581072d5d5db41bde982c7732ac41dcf541351.jpg) | OK                          | [76561199135513194](https://steamcommunity.com/profiles/76561199135513194/) | ❌           | 2024-06-08 13:07:32 |          | 2026-02-07 09:59:12 |
+
 |                                                                                   | 2026-01-04 21:29:08         |                                                                             | ❌           |                     |          | 2026-01-25 12:21:02 |
 | ![](https://avatars.steamstatic.com/d1ade110d82886b99accb9f44c191e5e9d77bf58.jpg) | MXTBYA                      | [76561198358772491](https://steamcommunity.com/profiles/76561198358772491/) | ✅           | 2024-07-01 07:48:13 |          |                     |
 | ![](https://avatars.steamstatic.com/663c71492a48acf070085bd001da2b9486abf7ad.jpg) | 二狗                          | [76561198214263879](https://steamcommunity.com/profiles/76561198214263879/) | ✅           | 2024-09-05 02:46:24 |          |                     |
