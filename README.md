@@ -15,12 +15,7 @@
 ## Steam好友列表
 
 | Avatar                                                                            | Name                      | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
-|:----------------------------------------------------------------------------------|:--------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/de929e8093f013fa318b43f8ed98cba0d18dfbb6.jpg) | 涟漪（然家军不向恶势力低头版）           | [76561199468366796](https://steamcommunity.com/profiles/76561199468366796/) | ❌           | 2026-03-15 04:08:02 |          | 2026-05-09 10:47:25 |
-| ![](https://avatars.steamstatic.com/b06ff0818fd828f7bbff4d5336d94c4a04bf1e1a.jpg) | 給睦                        | [76561199388766560](https://steamcommunity.com/profiles/76561199388766560/) | ❌           | 2024-07-13 14:55:52 |          | 2026-04-25 10:18:46 |
-| ![](https://avatars.steamstatic.com/37cf1dc1f48ac849fb89a0b11182816609a9e6eb.jpg) | WHY BULLY ME              | [76561199202146466](https://steamcommunity.com/profiles/76561199202146466/) | ❌           | 2024-08-29 08:41:38 |          | 2026-04-13 10:39:22 |
-| ![](https://avatars.steamstatic.com/ccbefcdd68c6af964f7c80388cb0414da7d04273.jpg) | aden                      | [76561198979303977](https://steamcommunity.com/profiles/76561198979303977/) | ❌           | 2024-07-19 15:35:12 |          | 2026-03-16 10:26:44 |
-|                                                                                   | 2026-01-04 21:29:08       |                                                                             | ❌           |                     |          | 2026-01-25 12:21:02 |
+
 | ![](https://avatars.steamstatic.com/3dd9229b07ea24b45b19ab4b918d76e03efc7528.jpg) | 波奇妙妙猫                     | [76561199135491831](https://steamcommunity.com/profiles/76561199135491831/) | ✅           | 2024-07-30 09:49:10 |          |                     |
 | ![](https://avatars.steamstatic.com/e80931ff59e4446aad550793ca99485e5f62ee30.jpg) | 黑姬结灯                      | [76561199197512486](https://steamcommunity.com/profiles/76561199197512486/) | ✅           | 2024-07-18 14:22:06 |          |                     |
 | ![](https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b.jpg) | 私の火機に従わないで                | [76561199225840415](https://steamcommunity.com/profiles/76561199225840415/) | ✅           | 2024-10-07 00:05:16 |          |                     |
